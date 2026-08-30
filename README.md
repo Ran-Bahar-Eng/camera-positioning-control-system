@@ -20,9 +20,9 @@ This repository contains the dynamic modeling, frequency-domain analysis, and co
 
 ---
 
-## Repository Structure
-- `src/`: MATLAB scripts containing system transfer functions, Bode/Nyquist plots, and step response simulations.
-- `docs/`: Complete analytical derivations and final academic project report.
+## Files
+- `*project1.m`: MATLAB simulation scripts for system modeling, loop shaping, and response plots.
+- `camera position control.pdf`: Academic project report with analytical derivations
 
 ---
 
