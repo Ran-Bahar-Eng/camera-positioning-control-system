@@ -1,0 +1,20 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.bak
+
+# MATLAB figures cache and workspace
+*.mat
+*.fig.bak
+
+# Simulink cache and generated code
+slprj/
+*.slxc
+*.autosave
+
+# Code generation
+codegen/
+
+# Desktop / OS files
+.DS_Store
+Thumbs.db
