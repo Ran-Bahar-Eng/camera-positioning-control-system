@@ -21,7 +21,7 @@ This repository contains the dynamic modeling, frequency-domain analysis, and co
 ---
 
 ## Files
-- `*project1.m`: MATLAB simulation scripts for system modeling, loop shaping, and response plots.
+- `*code.m`: MATLAB simulation scripts for system modeling, loop shaping, and response plots.
 - `camera position control.pdf`: Academic project report with analytical derivations
 
 ---
